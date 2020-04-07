@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="login">Login</string>
+    <string name="input_password">Input Password</string>
+    <string name="input_username">Input Username</string>
+    <string name="no_of_incorrect_attempts">No of incorrect attempts:</string>
+    <string name="tic_tac_toe">tic tac toe</string>
+    <string name="restart">Почати заново</string>
+    <string name="quit">Вийти</string>
+</resources>
